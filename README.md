@@ -1,4 +1,4 @@
-![Banner](C:\Users\USUARIO\Documents\Vane)  <!-- Reemplaza con la URL de tu banner -->
+![Banner]([C:\Users\USUARIO\Documents\Vane](https://github.com/iparra-sys/iparra-sys/blob/main/Iveth%20Parra%20–%20Python%20Developer%20in%20Learning.jpg)) 
 
 # ¡Hola! 👋 Soy Iveth Parra
 
@@ -47,8 +47,8 @@ Busco oportunidades para aplicar mis conocimientos, mejorar mis habilidades y co
 
 ---
 
-## 🏆 Badges (Opcional)
-Puedes agregar badges que muestren tu nivel o tecnologías usadas:  
+## 🏆 Badges 
+ 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=flat-square)  
 ![SQLite](https://img.shields.io/badge/SQLite-3.39-lightgrey?logo=sqlite&style=flat-square)  
 ![GitHub](https://img.shields.io/badge/GitHub-✔-black?style=flat-square)
