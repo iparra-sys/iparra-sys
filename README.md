@@ -8,12 +8,13 @@ Busco oportunidades para aplicar mis conocimientos, mejorar mis habilidades y co
 ---
 
 ## 🛠 Habilidades
-| Lenguaje | Nivel |
-|----------|-------|
-| Python | 🟢🟢🟢🟢⚪ |
-| Tkinter / GUI | 🟢🟢🟢⚪⚪ |
-| SQLite | 🟢🟢🟢⚪⚪ |
-| Git / GitHub | 🟢🟢🟢⚪⚪ |
+
+| Lenguaje        | Nivel |
+|-----------------|-------|
+| Python          | 🟢🟢🟢🟢⚪ |
+| Tkinter / GUI   | 🟢🟢🟢⚪⚪ |
+| SQLite          | 🟢🟢⚪⚪⚪ |
+| Git / GitHub    | 🟢🟢⚪⚪⚪ |
 
 💡 También estoy aprendiendo nuevas tecnologías y herramientas constantemente.
 
@@ -38,7 +39,7 @@ Busco oportunidades para aplicar mis conocimientos, mejorar mis habilidades y co
 
 ## 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/iveth-parra-herrera-351a6a235)  
-- Email: tu_correo@example.com  
+- Email: ivaneph27@hotmail.com 
 
 ---
 
