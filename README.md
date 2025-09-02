@@ -1,28 +1,54 @@
+![Banner](C:\Users\USUARIO\Documents\Vane)  <!-- Reemplaza con la URL de tu banner -->
+
 # ¡Hola! 👋 Soy Iveth Parra
 
-Soy una desarrolladora en formación, apasionada por aprender y crecer en el mundo de la programación. Busco oportunidades para aplicar mis conocimientos, mejorar mis habilidades y contribuir a proyectos reales.
+🌱 **Desarrolladora en aprendizaje** | 💻 **Apasionada por Python y la programación**  
+Busco oportunidades para aplicar mis conocimientos, mejorar mis habilidades y contribuir a proyectos reales.  
+
+---
 
 ## 🛠 Habilidades
-- Python
-- Tkinter y desarrollo de interfaces gráficas (GUI)
-- SQLite y bases de datos
-- Git y GitHub
+| Lenguaje | Nivel |
+|----------|-------|
+| Python | 🟢🟢🟢🟢⚪ |
+| Tkinter / GUI | 🟢🟢🟢⚪⚪ |
+| SQLite | 🟢🟢🟢⚪⚪ |
+| Git / GitHub | 🟢🟢🟢⚪⚪ |
 
-## 📂 Proyectos destacados
-- [Python-Portfolio](https://github.com/iparra-sys/Python-Portfolio) - Mi portafolio con proyectos de Python, donde practico GUI, manejo de datos y más.
-- [Inventario CD/DVD](https://github.com/iparra-sys/NombreDelRepositorioProyecto2) - Sistema de inventario para una tienda de CD y DVD, incluyendo gestión de estado de los productos (disponible, prestado, dañado, etc.) y edición, borrado y búsqueda de registros.
+💡 También estoy aprendiendo nuevas tecnologías y herramientas constantemente.
 
-## 🚀 Sobre mí
-- Me motiva aprender nuevas tecnologías y enfrentar retos de programación.
-- Estoy abierta a colaborar en proyectos para mejorar mis habilidades prácticas.
-- Dispuesta a recibir feedback y crecer profesionalmente.
+---
+
+## 📂 Proyectos Destacados
+
+- 📝 [Gestión de Usuarios](https://github.com/iparra-sys/Gestion-Usuarios)  
+  Proyecto de gestión de usuarios, con creación, edición y eliminación, usando interfaz gráfica en Python.
+
+- 💿 [Inventario CD/DVD](https://github.com/iparra-sys/Inventario-CD-DVD)  
+  Sistema de inventario para tienda de CD/DVD, con gestión de estado de productos y operaciones CRUD.
+
+---
+
+## 🌟 Sobre mí
+- Me motiva aprender nuevas tecnologías y enfrentar retos de programación.  
+- Abierta a colaborar en proyectos y recibir feedback para crecer profesionalmente.  
+- Busco oportunidades para aplicar y mejorar mis habilidades en Python y desarrollo de software.
+
+---
 
 ## 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/iveth-parra-herrera-351a6a235)
-- Email: ivaneph27@hotmail.com
+- [LinkedIn](https://www.linkedin.com/in/iveth-parra-herrera-351a6a235)  
+- Email: tu_correo@example.com  
 
-- ![Iveth's GitHub stats](https://github-readme-stats.vercel.app/api?username=iparra-sys&show_icons=true&theme=blue)
+---
 
+## 📊 Mis estadísticas de GitHub
+![Iveth's GitHub stats](https://github-readme-stats.vercel.app/api?username=iparra-sys&show_icons=true&theme=blue)
 
+---
 
-
+## 🏆 Badges (Opcional)
+Puedes agregar badges que muestren tu nivel o tecnologías usadas:  
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&style=flat-square)  
+![SQLite](https://img.shields.io/badge/SQLite-3.39-lightgrey?logo=sqlite&style=flat-square)  
+![GitHub](https://img.shields.io/badge/GitHub-✔-black?style=flat-square)
