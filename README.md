@@ -1,4 +1,4 @@
-![Banner]([C:\Users\USUARIO\Documents\Vane](https://github.com/iparra-sys/iparra-sys/blob/main/Iveth%20Parra%20–%20Python%20Developer%20in%20Learning.jpg)) 
+![Banner](https://github.com/iparra-sys/iparra-sys/blob/main/Iveth%20Parra%20%E2%80%93%20Python%20Developer%20in%20Learning.jpg?raw=true) 
 
 # ¡Hola! 👋 Soy Iveth Parra
 
