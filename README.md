@@ -21,5 +21,8 @@ Soy una desarrolladora en formación, apasionada por aprender y crecer en el mun
 - [LinkedIn](https://www.linkedin.com/in/iveth-parra-herrera-351a6a235)
 - Email: ivaneph27@hotmail.com
 
+- ![Iveth's GitHub stats](https://github-readme-stats.vercel.app/api?username=iparra-sys&show_icons=true&theme=blue)
+
+
 
 
