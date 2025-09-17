@@ -52,6 +52,6 @@ Mi objetivo es crecer profesionalmente en el área de **desarrollo de software**
 
 ## 📬 Conéctate conmigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/iveth-parra-herrera-351a6a235)  
-- ✉️ **Email:** *(puedes usar uno profesional, ejemplo: iveth.dev@gmail.com)*  
+- ✉️ **Email:** ivaneph27@hotmail.com  
 
 > _“El aprendizaje constante y la práctica diaria me acercan a mi meta: convertirme en desarrolladora profesional.”_
