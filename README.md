@@ -50,6 +50,11 @@ Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en p
 
 ## 📊 Plan Actualizado de Portafolio (Versión 2025)
 
+### 🚀 Progreso del Portafolio 2025
+
+🟩🟩🟩⬜⬜⬜⬜ **3 / 7 proyectos completados**
+
+
 | # | Proyecto | Tecnologías | Estado |
 |---|-----------|-------------|--------|
 | 1 | Flask CRUD | Flask, HTML, CSS | ✅ Completado |
