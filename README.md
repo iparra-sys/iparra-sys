@@ -54,8 +54,8 @@ Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en p
 |---|-----------|-------------|--------|
 | 1 | Flask CRUD | Flask, HTML, CSS | ✅ Completado |
 | 2 | Flask + MySQL | Flask, MySQL, Bootstrap | ✅ Completado |
-| 3 | API REST con Flask | Flask, JSON, Postman | ⏳ En desarrollo |
-| 4 | App del Clima | Flask, API OpenWeather, JS | 🔜 Próximo |
+| 3 | API REST con Flask | Flask, JSON, Postman | ✅ Completado |
+| 4 | App del Clima | Flask, API OpenWeather, JS | ⏳ En desarrollo |
 | 5 | Dashboard de Ventas | Flask, Chart.js, SQLite | 🔜 Próximo |
 | 6 | To-Do Frontend | JavaScript, HTML, CSS | 🔜 Próximo |
 | 7 | Proyecto Estrella (Citas/Reservas) | Flask, MySQL, Bootstrap | 🔜 Próximo |
