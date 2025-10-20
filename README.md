@@ -52,7 +52,7 @@ Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en p
 
 ### 🚀 Progreso del Portafolio 2025
 
-🟩🟩🟩🟩⬜⬜⬜ **4 / 7 proyectos completados**
+🟩🟩🟩🟩🟩⬜⬜ **5 / 7 proyectos completados**
 
 | # | Proyecto | Tecnologías | Estado |
 |---|-----------|-------------|--------|
@@ -60,8 +60,8 @@ Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en p
 | 2 | Flask + MySQL | Flask, MySQL, Bootstrap | ✅ Completado |
 | 3 | API REST con Flask | Flask, JSON, Postman | ✅ Completado |
 | 4 | Dashboard de Ventas | Flask, Chart.js, MySQL | ✅ Completado |
-| 5 | App del Clima | Flask, API OpenWeather, JS | ⏳ En desarrollo |
-| 6 | To-Do Frontend | JavaScript, HTML, CSS | 🔜 Próximo |
+| 5 | App del Clima | Flask, API OpenWeather, JS | ✅ Completado |
+| 6 | To-Do Frontend | JavaScript, HTML, CSS | ⏳ En desarrollo |
 | 7 | Proyecto Estrella (Citas/Reservas) | Flask, MySQL, Bootstrap | 🔜 Próximo |
 
 
