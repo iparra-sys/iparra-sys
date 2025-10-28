@@ -1,21 +1,22 @@
 ![Banner](https://github.com/iparra-sys/iparra-sys/blob/main/Iveth%20Parra%20%E2%80%93%20Python%20Developer%20in%20Learning.jpg?raw=true)
 
-# 👋 ¡Hola! Soy Iveth Parra  
+# 👋 ¡Hola! Soy Iveth Parra Herrera
+### 💻 Desarrolladora Junior | Python – Flask – MySQL – Frontend
 
-💻 **Desarrolladora en formación** apasionada por resolver problemas con código y construir aplicaciones útiles con Python y Flask.  
-Me motiva aprender constantemente, aplicar buenas prácticas y desarrollar proyectos reales que impulsen mi crecimiento profesional.  
+*Apasionada por crear soluciones reales a través del código.*
 
 ---
 
 ## 🙋‍♀️ Sobre mí
-Soy **desarrolladora en formación** con enfoque en **Python** y **bases de datos relacionales**, actualmente aprendiendo **desarrollo web con Flask y MySQL**.  
-Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en proyectos funcionales y bien estructurados.  
+Soy desarrolladora junior con enfoque en el ecosistema **Python** y experiencia práctica en **Flask**, **MySQL** y **Bootstrap**.  
+Me motiva construir aplicaciones funcionales, limpias y bien estructuradas, mientras sigo aprendiendo tecnologías web modernas.  
+Actualmente desarrollo mi **Portafolio 2025**, donde aplico buenas prácticas y patrones de diseño para fortalecer mis habilidades.
 
 🎯 Mi objetivo es avanzar hacia el desarrollo **Full Stack**, combinando **backend con Python/Flask** y **frontend con HTML, CSS y JavaScript**.  
 
 ---
 
-### 🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
 **Lenguajes & Frameworks**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,15 +41,16 @@ Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en p
 
 ---
 
-## 📂 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
-|----------|--------------|-------------|
-| [🧾 Inventario Flask + MySQL](https://github.com/iparra-sys/inventario_flask_mysql) | Aplicación CRUD para gestión de inventarios con conexión a base de datos MySQL. Incluye interfaz moderna y alertas Bootstrap. | Flask · MySQL · Bootstrap |
-| [📁 Inventario Flask (CRUD básico)](https://github.com/iparra-sys/inventario_flask) | Versión inicial del sistema de inventario, trabajando con listas y formularios web. | Flask · HTML · CSS |
-| [👥 Gestión de Usuarios](https://github.com/iparra-sys/CRUD-Usuarios) | CRUD de escritorio para administración de usuarios. | Python · Tkinter · SQLite |
-| [💿 Inventario CD/DVD](https://github.com/iparra-sys/Inventario-CD-DVD) | Sistema para registrar, buscar y editar colecciones de CD/DVD. | Python · Tkinter · SQLite |
-| [📚 Portafolio Nivel 4](https://github.com/iparra-sys/Portafolio-Nivel-4) | Ejercicios prácticos de programación, SQL y lógica. | Python · SQL |
+|-----------|--------------|--------------|
+| [🌤️ App del Clima](https://github.com/iparra-sys/app_clima) | Consulta el clima de cualquier ciudad con consumo de API y diseño visual atractivo. | Flask · API REST · Bootstrap · OpenWeatherMap |
+| [📋 Gestor de Citas Médicas](https://github.com/iparra-sys/gestor-citas-medicas) | Sistema CRUD completo para administrar pacientes, médicos y citas. | Flask · MySQL · HTML · CSS |
+| [🗂️ Flask CRUD Básico](https://github.com/iparra-sys/flask_crud) | CRUD inicial para manejo de datos dinámicos con SQLite. | Flask · SQLite · HTML |
+| [💾 API REST con Flask](https://github.com/iparra-sys/api_rest_flask) | API que gestiona recursos mediante peticiones HTTP. | Flask · JSON · RESTful |
+| [📊 Dashboard de Ventas](https://github.com/iparra-sys/dashboard_ventas) | Visualiza métricas con gráficos dinámicos. | Flask · Chart.js · Bootstrap |
+| [✅ To-Do App Frontend](https://github.com/iparra-sys/todo_frontend) | Aplicación de tareas con interfaz intuitiva. | HTML · CSS · JS |
 
 ---
 
@@ -56,7 +58,7 @@ Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en p
 
 ### 🚀 Progreso del Portafolio 2025
 
-🟩🟩🟩🟩🟩⬜⬜ **5 / 7 proyectos completados**
+🟩🟩🟩🟩🟩🟩🟩 **7 / 7 proyectos completados**
 
 | # | Proyecto | Tecnologías | Estado |
 |---|-----------|-------------|--------|
@@ -65,18 +67,17 @@ Me destaco por mi curiosidad, disciplina y capacidad para transformar ideas en p
 | 3 | API REST con Flask | Flask, JSON, Postman | ✅ Completado |
 | 4 | Dashboard de Ventas | Flask, Chart.js, MySQL | ✅ Completado |
 | 5 | App del Clima | Flask, API OpenWeather, JS | ✅ Completado |
-| 6 | To-Do Frontend | JavaScript, HTML, CSS | ⏳ En desarrollo |
-| 7 | Proyecto Estrella (Citas/Reservas) | Flask, MySQL, Bootstrap | 🔜 Próximo |
+| 6 | To-Do Frontend | JavaScript, HTML, CSS | ✅ Completado |
+| 7 | Proyecto Estrella (Citas/Reservas) | Flask, MySQL, Bootstrap | ✅ Completado|
 
 
 ---
 
-## 💡 Próximas Mejoras
-- 🧩 Implementar autenticación de usuarios  
-- 🧪 Agregar pruebas automatizadas con **pytest**  
-- 🐳 Dockerizar proyectos con **Flask y MySQL**  
-- ☁️ Desplegar aplicaciones en **Render** o **Railway**  
-- 🎨 Mejorar diseño UX/UI con **Bootstrap y JS dinámico**
+## 🧩 En Qué Estoy Trabajando
+
+- 🚧 Mejoras en el **Proyecto Estrella (Reservas)** con panel administrativo.  
+- 🧠 Aprendiendo **APIs RESTful avanzadas** y autenticación con JWT.  
+- 🎨 Mejorando la interfaz visual con **Bootstrap 5 y Chart.js**.  
 
 ---
 
