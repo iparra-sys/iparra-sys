@@ -87,4 +87,18 @@ Actualmente desarrollo mi **Portafolio 2025**, donde aplico buenas prácticas y 
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![Iveth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iparra-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iparra-sys&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iparra-sys&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 > _“El aprendizaje constante y la práctica diaria me acercan a mi meta: convertirme en desarrolladora profesional.”_ 💪
